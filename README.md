@@ -9,5 +9,6 @@
 - 📫 How to reach me: Email - kafiri.mr@gmail.com 
 - 😄 Pronouns: He/His
 
+------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKafiri&show_icons=true&theme=dark) 
