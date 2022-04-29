@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my Private Project .
 - 🌱 I’m currently Learning Flutter .
-- 💬 Ask me about Flutter and Smartphone Programmering .
+- 💬 Ask me about Mobile programming .
 - 📫 How to reach me: Email - kafiri.mr@gmail.com 
 - 😄 Pronouns: He/His
 
